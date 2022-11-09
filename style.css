@@ -1,0 +1,190 @@
+*{
+	box-sizing: border-box;
+	font-family: sans-serif;
+    margin:0;
+    padding:0
+}
+
+body{
+    
+    margin:0;
+	padding:0;
+	background-color: #daad82;
+	
+	min-height: 400px;
+
+
+}
+
+/* header section starts */
+li, a , button {
+	font-family: sans-serif;
+	font-weight: 500;
+	font-size: 1.3rem;
+	color: white;
+	text-decoration: none;
+	list-style-type: none;
+	
+
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: solid 2px #c1807b;
+    background-color: #6c2b1d;
+}
+
+.logo{
+	cursor: pointer;
+	
+	
+}
+
+
+.nav-link{
+	list-style: none;
+	
+}
+
+.nav-link li {
+	display: inline-block;
+	margin: 1em;
+}
+
+.nav-link li a {
+	transition: all 0.8s ease 0s;
+	padding: 1em;
+    
+}
+
+.nav-link li a:hover {
+	color: white;
+	background-color: #f0b814 ;
+	border-radius: 50%;
+
+}
+
+.nav-link li a:focus{
+    color:white;
+    background-color: #f0b814;
+    border-radius: 50%;
+}
+
+/* header section ends */
+
+
+
+
+
+/* content starts */
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    margin: 6%;
+    }
+
+    .child{
+        border: 2px solid black;
+        height: 30vh;
+        background-color: #7c7380;
+        
+    }
+
+    .hide{
+        display:none;
+    }
+
+
+    
+     
+/* footer begins */
+
+footer {
+	display:flex;
+    color : white;
+	background-color: #6c2b1d;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 5vh;
+	width: 100%;
+	border-top: 2px solid #c1807b;
+	justify-content:center;
+	align-items:center;
+   
+	
+	 
+	
+	}
+	 
+    .phone , .address , .copyright {
+	   
+        font-size: .8rem;
+     margin:auto;
+      }
+      
+      .copyright{
+         font-size: 1.05rem;
+      }
+	 
+	 
+     
+	 /* footer ends */
+
+	 @media only screen and (max-width: 768px) {
+		/* For mobile phones: */
+
+        .content{
+            display: block;
+            width: 100%;
+            
+        }
+		
+
+        
+
+       
+		.logo{
+			display: block;
+			margin:0 auto;
+		}
+		header{
+			display: block;
+			background-color: #0f265e;
+
+
+		}
+
+		ul.nav-link{
+			padding:0;
+			text-align: center;
+		}
+
+		footer{
+			height:5vmax;
+            
+		}
+
+		.nav-link li a:hover{
+			color:white ;
+			background-color: #db6c34;
+		}
+
+		li, a , button{
+			color:white;
+		}
+
+        
+		
+	  }
+
+
+
+      
