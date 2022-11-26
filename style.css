@@ -38,6 +38,10 @@ header {
 
 .logo{
 	cursor: pointer;
+	width: 20%;
+	
+
+	
 	
 	
 }
@@ -83,7 +87,7 @@ header {
 .parent {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(4, 1fr);
+    grid-template-rows: repeat(7, 1fr);
     grid-column-gap: 15px;
     grid-row-gap: 15px;
     margin: 6%;
@@ -91,8 +95,9 @@ header {
 
     .child{
         border: 2px solid black;
-        height: 30vh;
-        background-color: #7c7380;
+		border-radius: 2%;
+        
+        background-color: white;
         
     }
 
@@ -100,6 +105,37 @@ header {
         display:none;
     }
 
+	h1{
+		font-size: 1.8rem;
+		text-align: center;
+		padding-bottom: 5%;
+	} 
+
+	p{
+		font-size: 1.5rem;
+		text-align: center;
+	}
+
+	.image{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 60%;
+	}
+
+	.prices{
+		margin-top: ;
+	}
+
+	.price{
+		text-align: center;
+		
+	}
+
+	.salePrice{
+		color: red;
+		text-align: center;
+	}
 
     
      
@@ -185,6 +221,9 @@ footer {
 		
 	  }
 
+
+
+      
 
 
       
