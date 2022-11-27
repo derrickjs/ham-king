@@ -4,7 +4,7 @@
         "normal_price": "$1.49",
         "sale_price": "$1.29",
         "description": "cultured pasturized milk product, great on potatos. 16oz",
-        "department": "dairy",
+        "department": "Dairy",
         "image":"https://res.cloudinary.com/derrickstahlman/image/upload/v1669316083/sour_cream_mddnrh.png"
     },
 
@@ -13,7 +13,7 @@
         "normal_price": "$5.99",
         "sale_price": "$2.99",
         "description": "Frozen dairy treat, chocolate flavor. gallon",
-        "department": "dairy",
+        "department": "Dairy",
         "image":"https://res.cloudinary.com/derrickstahlman/image/upload/v1669316013/icecream_noqsy8.jpg"
     },
 
@@ -22,7 +22,7 @@
         "normal_price": "$3.99",
         "sale_price": "$2.99",
         "description": "Sharp chedder shredded cheese. 12oz bag",
-        "department": "dairy",
+        "department": "Dairy",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669315945/cheddar_xggslf.jpg"
     },
 
@@ -31,7 +31,7 @@
         "normal_price": "$4.49",
         "sale_price": "$3.49",
         "description": "2% pasturized milk from sunshine farms. Gallon.",
-        "department": "dairy",
+        "department": "Dairy",
         "image":  "https://res.cloudinary.com/derrickstahlman/image/upload/v1669316020/milk_qcvwac.jpg"
     },
 
@@ -40,7 +40,7 @@
         "normal_price": "$2.99",
         "sale_price": "$1.99",
         "description": "sliced loaf of sandwhich bread.",
-        "department": "bread",
+        "department": "Bread",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669316068/sandwich_bread_ouqqrl.jpg"
     },
 
@@ -49,7 +49,7 @@
         "normal_price": "$3.49",
         "sale_price": "$2.49",
         "description": "pack of 12 dinner rolls",
-        "department": "bread",
+        "department": "Bread",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669315964/dinner_rolls_obx2p6.jpg"
     },
 
@@ -58,7 +58,7 @@
         "normal_price": "$3.99",
         "sale_price": "$2.99",
         "description": "Pack of 6 sub/hogie rolls",
-        "department": "bread",
+        "department": "Bread",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669316090/sub_roll_apeol1.jpg"
     },
 
@@ -67,7 +67,7 @@
         "normal_price": "$2.99",
         "sale_price": "$2.49",
         "description": "Pack of 6 plain bagels",
-        "department": "bread",
+        "department": "Bread",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669315941/bagels_mxi9zl.jpg"
     },
 
@@ -76,7 +76,7 @@
         "normal_price": "$12.99",
         "sale_price": "$8.99",
         "description": "Prime grade Ribeye steak. Price per pound.",
-        "department": "meat",
+        "department": "Meat",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669316047/ribeye_k8ytdo.jpg"
     },
 
@@ -85,7 +85,7 @@
         "normal_price": "$5.99",
         "sale_price": "$3.99",
         "description": "Ground 80/20 beef. Price per pound",
-        "department": "meat",
+        "department": "Meat",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669316009/ground_odbsub.jpg"
     },
 
@@ -94,7 +94,7 @@
         "normal_price": "$4.99",
         "sale_price": "$3.99",
         "description": "Flappers and Drums. Price per pound.",
-        "department": "meat" ,
+        "department": "Meat" ,
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669315955/chicken_wings_qg44ki.jpg"
     },
 
@@ -103,7 +103,7 @@
         "normal_price": "$15.99",
         "sale_price": "$11.99",
         "description": "U12 Gulf shrimp. Price per pound.",
-        "department": "meat" ,
+        "department": "Meat" ,
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669316076/shrimp_tpol1m.jpg"
     },
 
@@ -112,7 +112,7 @@
         "normal_price": "$1.99",
         "sale_price": "$0.99",
         "description": "2 liter of cola",
-        "department": "drinks" ,
+        "department": "Drinks" ,
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669315960/cola_nanymy.jpg"
     },
 
@@ -121,7 +121,7 @@
         "normal_price": "$2.99",
         "sale_price": "$2.49",
         "description": "Gallon of 100% grape juice.",
-        "department": "drinks" ,
+        "department": "Drinks" ,
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669316004/grape_yj2r4x.jpg"
     },
 
@@ -130,7 +130,7 @@
         "normal_price": "$2.99",
         "sale_price": "$2.49",
         "description": "Gallon of 100% apple juice.",
-        "department": "drinks",
+        "department": "Drinks",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669315935/apple_juice_rozcbm.jpg"
     },
 
@@ -139,7 +139,7 @@
         "normal_price": "$1.99",
         "sale_price": "$0.99",
         "description": "2 liter Dr Perky.",
-        "department": "drinks",
+        "department": "Drinks",
         "image" : "https://res.cloudinary.com/derrickstahlman/image/upload/v1669315972/dr_perky_jh5evm.jpg"
     },
 
@@ -148,7 +148,7 @@
         "normal_price": "$8.99",
         "sale_price": "$5.99",
         "description": "Frozen pepperoni pizza. Ready in 20 minutes",
-        "department": "frozen",
+        "department": "Frozen",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669316041/pizza_krk6q0.jpg"
     },
     
@@ -157,7 +157,7 @@
         "normal_price": "$5.99",
         "sale_price": "$3.99",
         "description": "Frozen chicken nuggets. Great for kids",
-        "department": "frozen" ,
+        "department": "Frozen" ,
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669315950/chicken_nuggets_zbgueq.jpg"
     },
 
@@ -166,7 +166,7 @@
         "normal_price": "$2.99",
         "sale_price": "$1.99",
         "description": "frozen waffles. Ready in minutes using a toaster.",
-        "department": "frozen",
+        "department": "Frozen",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669316095/waffles_itsewm.jpg"
     },
 
@@ -175,7 +175,7 @@
         "normal_price": "$5.99",
         "sale_price": "$4.99",
         "description": "Cripsy fish sticks, great with tarter sauce.",
-        "department": "frozen",
+        "department": "Frozen",
         "image": "https://res.cloudinary.com/derrickstahlman/image/upload/v1669315976/fish_sticks_bsbhkl.jpg"
     }
 
