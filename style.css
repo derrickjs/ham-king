@@ -93,18 +93,25 @@ header {
     margin: 6%;
     }
 
-    .child{
+	.Produce, .Bread, .Dairy, .Meat, .Seafood, .Drinks, .Deli, .Frozen{
         border: 2px solid black;
 		border-radius: 2%;
 		display:grid;
 		grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-		
-
+		grid-row-gap: 25px;
+		grid-template-areas: 
+		"title title"
+;
         
         background-color: white;
         
     }
+
+	.title{
+		grid-area: title;
+		font-size: 5em;
+		padding-top: 3%;
+	}
 
     .hide{
         display:none;
@@ -129,7 +136,7 @@ header {
 	}
 
 	.prices{
-		margin-top: ;
+
 	}
 
 	.price{

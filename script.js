@@ -13,7 +13,7 @@ var onSale = ["Dairy" , "Bread" , "Meat", "Drinks", "Frozen" ];
 const runAd = () => {
     for(var dept of departments ){
 
-        document.querySelector(".parent").innerHTML += `<section class = '${dept}'> <h1>${dept}</h1></section>`
+        document.querySelector(".parent").innerHTML += ` <section class = '${dept}'><h1 class='title'>${dept}</h1></section>`
         
        
 
